@@ -6,3 +6,4 @@ olive oil
 red onion
 tomato
 salt
+lemon
